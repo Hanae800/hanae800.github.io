@@ -9,5 +9,5 @@ Blah
 Blah 
 Blah 
 
-Thank you! Here is the link: 
+Thank you! and Here is the link to exercice number 1: 
 
