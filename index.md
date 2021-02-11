@@ -11,7 +11,7 @@ Blah
 
 Thank you! and Here is the link to exercice number 1: 
 
-## Website Demo
+## Exercise 1
 
 This is the exercise 1 link to be showcased in the website. 
 
