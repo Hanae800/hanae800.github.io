@@ -1,7 +1,2 @@
-## Website Demo
-
-This is the exercise 1 link to be showcased in the website. 
-
-[Go to the other file](exercise1.md)
-
+https://github.com/UCF-GaiM/exercises-and-tutorials-Hanae800/tree/main/exercises/1
 
